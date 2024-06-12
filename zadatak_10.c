@@ -1,4 +1,5 @@
 // isti kao https://github.com/marci29/urs_ciklus_3/blob/main/zadatak_4.c
+// tamo je više informacija
 
 
 /* 17. Napišite program koji na serijsko sučelje jednom ispiše sve karaktere 8-bitne ASCII tablice,
